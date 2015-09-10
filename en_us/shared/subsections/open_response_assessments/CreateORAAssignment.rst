@@ -4,17 +4,12 @@
 Create an Open Response Assessment Assignment
 #############################################
 
+Creating an open response assessment is a multi-step process. This section
+covers each step in detail.
 
-Creating an open response assessment is a multi-step process. Each step is covered in detail below.
-
-* :ref:`PA Create Component`
-* :ref:`PA Add Prompt`
-* :ref:`PA Add Rubric`
-* :ref:`PA Specify Name and Dates`
-* :ref:`PA Select Assignment Steps`
-* :ref:`PA Specify Step Settings`
-* :ref:`PA Show Top Responses`
-* :ref:`PA Test Assignment`
+.. contents::
+  :local:
+  :depth: 2
 
 For more information about the components of an open response assessment, see
 :ref:`Open Response Assessments 2`. For information about viewing metrics and
@@ -28,13 +23,23 @@ ORA Assignment Information`.
 Step 1. Create the Component
 ******************************
 
-To create the component for your open response assessment, complete these steps.
+To create the component for your open response assessment, complete these
+steps.
 
 #. In Studio, open the unit where you want to create the open response
-   assessment.   
-#. Under **Add New Component**, select **Problem**, select the **Advanced** tab,
-   and then select **Peer Assessment**.
-#. In the Problem component that appears, select **Edit**.
+   assessment.
+
+#. Under **Add New Component**, select **Problem**
+
+#. Select **Advanced**, and then select **Peer Assessment**.
+
+#. In the problem component that appears, select **Edit**.
+
+   You use this component editor to add prompts and the rubric, and to specify
+   other settings for the open response assessment component.
+
+#. Select **Save** each time you complete an editing session. You can continue
+   to edit the problem until you publish the unit.
 
 .. note:: After you publish an ORA assignment, you can no longer change the
    structure of the rubric or the point values associated with each criterion
@@ -52,11 +57,15 @@ Step 2. Add Prompts
 
 To add prompts, or questions, complete these steps.
 
+.. note:: If you want to add text formatting to the prompt, or include an 
+ image, see :ref:`Add Formatting or Images to a Prompt`.
+
 #. In the open response assessment component editor, select the **Prompt** tab.
 #. Add the text of your question in the text field. Replace any default text if
    necessary.
 #. Select **Add a Prompt** to add another prompt in the problem.
 
+.. _Add Formatting or Images to a Prompt:
 
 ========================================
 Add Formatting or Images to a Prompt
@@ -76,25 +85,32 @@ field.
 .. _PA Allow Images:
 
 ============================================
-Allow Learners to Submit Images (optional)
+Allow Learners to Submit Files (optional)
 ============================================
 
-To allow learners to submit an image with a response, complete these steps.
+Before you enable this feature for your open response assessment, be sure to
+read about its limitations and best practices. For more information, see
+:ref:`Asking Learners to Upload Other Files in Responses`.
 
-#. In the open response assessment component editor, select the **Settings** tab.
-#. For **Allow Image Responses**, select **True**.
+To allow learners to submit a file along with their text responses, follow
+these steps.
 
-.. note:: 
- 
-   * The image file must be a .jpg or .png file, and it must be smaller than 5
-     MB in size. 
-   * Currently, course teams cannot see any of the images that
-     learners submit. Images are not visible in the body of the assignment in
-     the courseware, and they are not included in the course data package.
-   * You can allow learners to upload an image, but you cannot require it.
-   * Learners can only submit one image with each response.     
-   * All responses must contain text. Learners cannot submit a response that
-     contains only an image.
+#. In the open response assessment component editor, select **Settings**.
+
+#. Set **Allow File Upload** to one of these options.
+   
+  * **Image File**
+  * **PDF or Image File**
+  * **Custom File Types** 
+
+#. If you select **Custom File Types**, the **File Types** field appears. Enter
+   the file extensions, separated by commas, of the types of files that you
+   want learners to submit.
+
+   .. note:: To reduce the potential for problems from files with malicious 
+    content, learners cannot upload certain file types, even if you specify
+    them in this field. The file types that are blocked include .exe, .app,
+    .dmg, .bat, and .cmd.
 
 .. _PA Add Rubric:
 

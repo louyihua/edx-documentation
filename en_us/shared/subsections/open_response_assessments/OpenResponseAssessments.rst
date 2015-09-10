@@ -20,7 +20,8 @@ Open response assessments allow the course team to assign questions that might
 not have definite answers, such as text responses or short essays. Learners
 submit responses to questions, then each learner and the learner's  peers
 compare the responses to a rubric that you create. You can also allow learners
-to upload an image to accompany a text response.
+to upload an image, a .pdf file, or another file (of a type that you specify)
+to accompany a text response.
 
 Open response assessments can include both peer assessments and self
 assessments. In peer assessments, learners compare their peers' responses to a
@@ -54,10 +55,8 @@ For information about viewing metrics and learner responses for released open
 response assessments, see :ref:`Accessing ORA Assignment Information`.  
 
 For information about the learner experience with open response assessments,
-see `Open Response Assessments <http://edx-guide-for-
-students.readthedocs.org/en/latest/SFD_ORA.html>`_ in the `edX Guide for
-Learners <http://edx-guide-for-
-students.readthedocs.org/en/latest/index.html>`_.
+see `Open Response Assessments <http://edx-guide-for-students.readthedocs.org/en/latest/SFD_ORA.html>`_ in the `edX Guide for
+Learners <http://edx-guide-for-students.readthedocs.org/en/latest/index.html>`_.
 
 
 .. _Best Practices for ORA:
@@ -69,11 +68,11 @@ Best Practices for Open Response Assessments
 Open response assessments can be a powerful teaching tool, but they are more
 effective in some situations than in others. In general, open response
 assessments are best suited to open-ended or project-based assignments with
-subjective essay answers and discussion. For example, open response
-assessments work well in humanities assignments where learners are encouraged
-to make subjective assessments of text or images, but they might not be the
-ideal tool in chemistry assignments where there are definitively correct or
-incorrect answers to questions.
+subjective essay answers and discussion. For example, open response assessments
+work well in humanities assignments where learners are encouraged to make
+subjective assessments of text, images, or other contributions, but they might
+not be the ideal tool in chemistry assignments where there are definitively
+correct or incorrect answers to questions.
 
 EdX suggests that you follow these guidelines and best practices when you use
 open response assessments in your courses.
@@ -163,10 +162,11 @@ Prompts
 Each **prompt**, or question, that you want your learners to answer, appears
 near the top of the page, followed by a field where the learner enters a
 response. You can require your learners to enter text as a response, or you can
-allow your learners to both enter text and upload an image.
+allow your learners to both enter text and upload another file, such as an
+image or document.
 
-.. note:: If learners upload an image, the image file must be a .jpg or .png 
- file, and it must be smaller than 5 MB in size.
+.. note:: If learners upload an image, the image file must be a .jpg, .gif, 
+ or .png file, and it must be smaller than 5 MB in size.
 
 .. image:: ../../../../shared/building_and_running_chapters/Images/PA_QandRField.png
    :width: 500
@@ -181,24 +181,54 @@ approximate number of words or sentences that their response should have.
 
 For more information, see :ref:`PA Add Prompt`.
 
+.. _Asking Learners to Upload Other Files in Responses:
 
-Asking Learners to Upload Images in Responses
-***********************************************
+Asking Learners to Upload Other Files in Responses
+*******************************************************
 
-In open response assessments, you can ask your learners to upload an image as
-part of their response. If you do this, however, keep the following points in
-mind.
+For an open response assessment, you can ask your learners to upload an image,
+a .pdf, or a file of another type as part of their responses. The responses and
+their accompanying files are then evaluated by other learners during the peer
+assessment. Offering the option to upload a file in addition to a text response
+can give learners the opportunity to use tools and develop skills that are
+relevant to your course. 
 
-* You cannot require your learners to upload an image. You can only allow it.
+Before you decide to ask learners to upload other files along with their text
+responses, however, you should be aware of the following limitations and best
+practices.
+
+* During the peer review process, learners download the files that other
+  learners uploaded. To reduce the potential for problems from files with
+  malicious content, learners cannot upload certain file types, including .exe,
+  .app, .dmg, .bat, and .cmd files.
+
+  .. only:: Partners
+
+     For a complete list, contact your partner manager.
+
+   .. only:: Open_edX
+
+     For a complete list, contact your Open edX system administrator.
+
+* Course teams cannot access the files that learners upload. Uploaded file
+  content is not visible to course team members in the courseware, and the
+  files are not included with answer submission data or in the course data
+  package.
+
+* You cannot require your learners to upload files. You can only allow the
+  option.
 
 * All responses must include some text. Learners cannot submit a response that
-  contains only an image.
+  contains only an uploaded file.
 
-* Learners can submit only one image with each response.
+* Learners can submit only one file with each response.
 
-.. note:: Currently, course teams cannot see any of the images that learners
-   submit. Images are not visible in the body of the assignment in the
-   courseware, and they are not included in the course data package.
+* Files must be smaller than 5MB in size.
+
+* Image files must be in .jpg, .gif, or .png format.
+   
+
+For more information, see :ref:`PA Allow Images`.
 
 .. _PA Rubric:
 
@@ -560,7 +590,7 @@ given for each criterion, as follows.
    individual assessor. Therefore, the score for the response is not the median
    of the scores that each individual peer assessor gave the response.
 
-For information on grades for learner submissions that you have cancelled and
+For information on grades for learner submissions that you have canceled and
 removed from peer assessment, refer to :ref:`Remove a learner response from peer
 grading`.
 

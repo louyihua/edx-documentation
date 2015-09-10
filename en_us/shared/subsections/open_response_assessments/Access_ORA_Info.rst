@@ -177,7 +177,7 @@ Remove a submission from peer assessment by completing these steps.
    Removed submissions are also removed from the list of Top Responses if they
    were previously listed.
    
-.. image:: ../../../../shared/building_and_running_chapters/Images//ORA_CancelledStudentResponse.png
+.. image:: ../../../../shared/building_and_running_chapters/Images/ORA_CancelledStudentResponse.png
    :alt: The date, time and comment for removal of a learner response is shown instead of the original response.  
 
 
