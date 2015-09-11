@@ -112,6 +112,9 @@ these steps.
     them in this field. The file types that are blocked include .exe, .app,
     .dmg, .bat, and .cmd.
 
+#. Verify that the text of the prompt includes the file type or types that
+   learners can upload.
+
 .. _PA Add Rubric:
 
 ******************************
