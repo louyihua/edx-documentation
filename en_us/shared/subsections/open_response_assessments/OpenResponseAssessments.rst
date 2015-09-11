@@ -20,7 +20,7 @@ Open response assessments allow the course team to assign questions that might
 not have definite answers, such as text responses or short essays. Learners
 submit responses to questions, then each learner and the learner's  peers
 compare the responses to a rubric that you create. You can also allow learners
-to upload an image, a .pdf file, or another file (of a type that you specify)
+to upload an image, a .pdf file, or another file of a type that you specify
 to accompany a text response.
 
 Open response assessments can include both peer assessments and self
@@ -187,11 +187,11 @@ Asking Learners to Upload Other Files in Responses
 *******************************************************
 
 For an open response assessment, you can ask your learners to upload an image,
-a .pdf, or a file of another type as part of their responses. The responses and
-their accompanying files are then evaluated by other learners during the peer
+a .pdf file, or a file of another type as a part of their responses. Other
+learners evaluate the responses and their accompanying files during the peer
 assessment. Offering the option to upload a file in addition to a text response
 can give learners the opportunity to use tools and develop skills that are
-relevant to your course. 
+relevant to your course.
 
 Before you decide to ask learners to upload other files along with their text
 responses, however, you should be aware of the following limitations and best
@@ -211,9 +211,9 @@ practices.
      For a complete list, contact your Open edX system administrator.
 
 * Course teams cannot access the files that learners upload. Uploaded file
-  content is not visible to course team members in the courseware, and the
-  files are not included with answer submission data or in the course data
-  package.
+  content does not appear to course team members in the courseware or in the
+  reports of answer submissions available on the Instructor Dashboard, and the
+  course data packages do not include the uploaded files.
 
 * You cannot require your learners to upload files. You can only allow the
   option.

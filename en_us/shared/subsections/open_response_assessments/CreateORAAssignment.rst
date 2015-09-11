@@ -29,7 +29,7 @@ steps.
 #. In Studio, open the unit where you want to create the open response
    assessment.
 
-#. Under **Add New Component**, select **Problem**
+#. Under **Add New Component**, select **Problem**.
 
 #. Select **Advanced**, and then select **Peer Assessment**.
 
@@ -104,8 +104,8 @@ these steps.
   * **Custom File Types** 
 
 #. If you select **Custom File Types**, the **File Types** field appears. Enter
-   the file extensions, separated by commas, of the types of files that you
-   want learners to submit.
+   the file name extensions, separated by commas, of the types of files that
+   you want learners to submit.
 
    .. note:: To reduce the potential for problems from files with malicious 
     content, learners cannot upload certain file types, even if you specify
