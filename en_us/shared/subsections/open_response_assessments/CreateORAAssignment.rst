@@ -71,12 +71,11 @@ To add prompts, or questions, complete these steps.
 Add Formatting or Images to a Prompt
 ========================================
 
-Currently, you cannot add text formatting or images inside the Peer Assessment
-component. To include formatting or images within the text of a prompt, you
-can add an HTML component that contains your text above the Peer Assessment
-component, and leave the text field in the **Prompt** tab blank. The
-instructions for the peer assessment still appear above the **Your Response**
-field.
+Currently, you cannot format text or add images inside the Peer Assessment
+component. To include formatting or images in a prompt, you can add an HTML
+component that contains your text above the Peer Assessment component, and
+leave the text field in the **Prompt** tab blank. The instructions for the peer
+assessment still appear above the **Your Response** field.
 
 .. image:: ../../../../shared/building_and_running_chapters/Images/PA_HTMLComponent.png
       :alt: A peer assessment that has an image in an HTML component

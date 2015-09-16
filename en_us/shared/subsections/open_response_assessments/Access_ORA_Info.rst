@@ -4,7 +4,7 @@
 Accessing Assignment and Learner Metrics
 ##########################################
 
-After your open response assessment assignment has been released, you can access
+After you release an open response assessment assignment, you can access
 information about the number of learners in each step of the assignment or the
 performance of individual learners. This information is available in the
 **Course Staff Information** section at the end of each assignment. To access
