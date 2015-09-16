@@ -50,13 +50,11 @@ by step instructions, see the following sections.
 * :ref:`PA Create an ORA Assignment`
 * :ref:`Accessing ORA Assignment Information`
 
-  
 For information about viewing metrics and learner responses for released open
 response assessments, see :ref:`Accessing ORA Assignment Information`.  
 
 For information about the learner experience with open response assessments,
-see `Open Response Assessments <http://edx-guide-for-students.readthedocs.org/en/latest/SFD_ORA.html>`_ in the `edX Guide for
-Learners <http://edx-guide-for-students.readthedocs.org/en/latest/index.html>`_.
+see `Open Response Assessments <http://edx-guide-for-students.readthedocs.org/en/latest/SFD_ORA.html>`_ in the `edX Guide for Learners <http://edx-guide-for-students.readthedocs.org/en/latest/index.html>`_.
 
 
 .. _Best Practices for ORA:
@@ -170,7 +168,7 @@ image or document.
 
 .. image:: ../../../../shared/building_and_running_chapters/Images/PA_QandRField.png
    :width: 500
-   :alt: Single ORA question and its corresponding blank response field
+   :alt: Single ORA question and its corresponding blank response field.
 
 When you write each question, you can include helpful information for your
 learners, such as what they can expect after they submit responses, or the
@@ -204,22 +202,22 @@ practices.
 
   .. only:: Partners
 
-     For a complete list, contact your partner manager.
+     For a complete list, contact your edX Partner Manager.
 
    .. only:: Open_edX
 
      For a complete list, contact your Open edX system administrator.
 
-* Course teams cannot access the files that learners upload. Uploaded file
-  content does not appear to course team members in the courseware or in the
-  reports of answer submissions available on the Instructor Dashboard, and the
-  course data packages do not include the uploaded files.
+* Course teams can only access uploaded files for one learner at a time.
+  Uploaded file content is not included in the reports of answer submissions
+  available from the Instructor Dashboard, and course data packages do not
+  include any of the uploaded files.
 
-* You cannot require your learners to upload files. You can only allow the
-  option.
+* You cannot require your learners to upload files. You can only give them the
+  option to do so.
 
-* All responses must include some text. Learners cannot submit a response that
-  contains only an uploaded file.
+* All responses must include some response text. Learners cannot submit a
+  response that contains only an uploaded file.
 
 * Learners can submit only one file with each response.
 

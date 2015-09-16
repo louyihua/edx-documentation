@@ -60,7 +60,7 @@ To add prompts, or questions, complete these steps.
 .. note:: If you want to add text formatting to the prompt, or include an 
  image, see :ref:`Add Formatting or Images to a Prompt`.
 
-#. In the open response assessment component editor, select the **Prompt** tab.
+#. In the open response assessment component editor, select **Prompt**.
 #. Add the text of your question in the text field. Replace any default text if
    necessary.
 #. Select **Add a Prompt** to add another prompt in the problem.
@@ -162,17 +162,20 @@ To add the rubric, complete these steps.
 Provide Only Comment Fields for Individual Criteria
 ==========================================================
 
-When you add a comment field to a criterion, the comment field appears below the
-options for the criterion. You can also provide a comment field, but no options.
+When you add a comment field to a criterion, the comment field appears below
+the options for the criterion. You can also provide a comment field, but no
+options.
 
-In the following image, the first criterion has a comment field but no options. The second includes options, but does not have a comment field.
+In the following image, the first criterion has a comment field but no options.
+The second includes options, but does not have a comment field.
 
 .. image:: ../../../../shared/building_and_running_chapters/Images/PA_0_Option_Criteria.png
 
 To provide a comment field without options, complete these steps.
 
 #. In the criterion, select **Remove** to remove, or delete, all the options.
-#. Next to **Feedback for This Criterion**, select **Required** in the dropdown list.
+#. Next to **Feedback for This Criterion**, select **Required** in the dropdown
+   list.
 
 
 .. _PA Specify Name and Dates:
@@ -284,10 +287,15 @@ start and due dates. All fields are required.
 To specify peer assessment settings, follow these steps.
 
 #. Locate the **Step: Peer Assessment** heading.
-#. Next to **Must Grade**, enter the number of responses that each learner must grade.
-#. Next to **Graded By**, enter the number of learners that must grade each response.
-#. Next to **Start Date** and **Start Time**, enter the date and time when learners can begin assessing their peers' responses. All times are in Universal Coordinated Time (UTC).
-#. Next to **Due Date** and **Due Time**, enter the date and time by which all peer assessments must be complete. All times are in UTC.
+#. Next to **Must Grade**, enter the number of responses that each learner must
+   grade.
+#. Next to **Graded By**, enter the number of learners that must grade each
+   response.
+#. Next to **Start Date** and **Start Time**, enter the date and time when
+   learners can begin assessing their peers' responses. All times are in
+   Universal Coordinated Time (UTC).
+#. Next to **Due Date** and **Due Time**, enter the date and time by which all
+   peer assessments must be complete. All times are in UTC.
 
 
 ============================
@@ -302,7 +310,8 @@ For the self assessment step, you specify when the step starts and ends.
    learners can begin assessing their peers' responses. All times are in
    Universal Coordinated Time (UTC).
    
-#. Next to **Due Date** and **Due Time**, enter the date and time by which all peer assessments must be complete. All times are in UTC.
+#. Next to **Due Date** and **Due Time**, enter the date and time by which all
+   peer assessments must be complete. All times are in UTC.
 
 
 .. _PA Show Top Responses:
@@ -316,10 +325,10 @@ specify a number on the **Settings** tab.
 
 #. In the component editor, select the **Settings** tab.
    
-#. In the **Top Responses** field, specify the number of responses that you want
-   to appear in the **Top Responses** section below the learner's final score.
-   If you do not want this section to appear, set the number to 0. The maximum
-   number is 100.
+#. In the **Top Responses** field, specify the number of responses that you
+   want to appear in the **Top Responses** section below the learner's final
+   score. If you do not want this section to appear, set the number to 0. The
+   maximum number is 100.
 
 .. note:: Because each response can be up to 300 pixels in height, we recommend
    that you set the number of top responses to 20 or lower, to prevent the page
@@ -335,9 +344,9 @@ Step 8. Test the Assignment
 ******************************
 
 To test your assignment, set up the assignment in your course, set the section
-or subsection date in the future, and ask a group of beta users to submit
+or subsection date in the future, and ask a group of beta testers to submit
 responses and grade each other. The beta testers can then let you know if they
-found the question and the rubric easy to understand or if they had any problems
-with the assignment.
+found the question and the rubric easy to understand or if they had any
+problems with the assignment.
 
 For more information about beta testing, see :ref:`Beta_Testing`.
