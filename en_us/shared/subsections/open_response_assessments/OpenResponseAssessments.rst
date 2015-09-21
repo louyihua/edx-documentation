@@ -163,8 +163,8 @@ response. You can require your learners to enter text as a response, or you can
 allow your learners to both enter text and upload another file, such as an
 image or document.
 
-.. note:: If learners upload an image, the image file must be a .jpg, .gif, 
- or .png file, and it must be smaller than 5 MB in size.
+.. note:: Uploaded files must be smaller than 5 MB in size. If learners upload 
+ an image, the file must be in .jpg, .gif, or .png format.
 
 .. image:: ../../../../shared/building_and_running_chapters/Images/PA_QandRField.png
    :width: 500
