@@ -8,6 +8,12 @@
 
 .. _XML file: https://edge.edx.org/auth/saml/metadata.xml
 
+.. _edX Demo course: https://www.edx.org/course/edx/edx-edxdemo101-edx-demo-1038
+
+.. _edX Edge: http://edge.edx.org
+
+.. _edx.org registration: https://courses.edx.org/register
+
 
 .. GitHub Links
 
@@ -113,6 +119,10 @@
 
 
 .. THIRD PARTY LINKS
+
+.. _Proctoring Software System Requirements: http://clientportal.softwaresecure.com/support/index.php?/Knowledgebase/Article/View/252/0/system-requirements-remote-proctor-now
+
+.. _Proctoring Software System Requirements: http://clientportal.softwaresecure.com/support/index.php?/Knowledgebase/Article/View/252/0/system-requirements-remote-proctor-now 
 
 .. _Vagrant's documentation on boxes: http://docs.vagrantup.com/v2/boxes.html
 
