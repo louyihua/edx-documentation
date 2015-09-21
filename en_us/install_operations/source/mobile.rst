@@ -1,5 +1,3 @@
-.. include:: links.rst
-
 .. _Setting up the Mobile Applications:
 
 ############################################
@@ -216,3 +214,5 @@ directories and files, see the GitHub repositories for `iOS`_ and `Android`_.
     PUSH_NOTIFICATIONS: true
    
 #. Save the file.
+
+.. include:: ../../links/links.rst

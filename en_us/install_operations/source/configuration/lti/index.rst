@@ -24,5 +24,5 @@ an external LMS as a consumer of edX course content, see `Using edX as an LTI
 Tool Provider`_ in the *Building and Running an edX Course* guide.
 
 
-.. include:: ../../links.rst
+.. include:: ../../../../links/links.rst
 

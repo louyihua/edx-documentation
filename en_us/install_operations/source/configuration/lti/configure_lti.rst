@@ -55,7 +55,7 @@ follow these steps.
 5. Select **Save** at the bottom of the page.
 
 
-.. include:: ../../links.rst
+.. include:: ../../../../links/links.rst
 
 
 

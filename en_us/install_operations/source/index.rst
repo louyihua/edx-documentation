@@ -30,3 +30,5 @@ most recent release of Open edX is :ref:`Cypress <Open edX Cypress Release>`.
    analytics/install_analytics
    mobile
    glossary
+
+.. include:: ../../links/links.rst
