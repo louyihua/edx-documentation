@@ -14,8 +14,16 @@
 
 .. _edx.org registration: https://courses.edx.org/register
 
+.. _docs@edx.org: docs@edx.org
+
+
 
 .. GitHub Links
+
+
+.. _GitHub Flow: https://github.com/blog/1557-github-flow-in-the-browser
+
+.. _GitHub Flow: https://github.com/blog/1557-github-flow-in-the-browser
 
 .. _GitHub Help: https://help.github.com/articles/set-up-git
 
@@ -115,10 +123,15 @@
 
 
 
-
-
-
 .. THIRD PARTY LINKS
+
+
+.. _Sphinx: http://sphinx-doc.org/
+
+.. _LaTeX: http://www.latex-project.org/
+
+
+.. _RST: http://docutils.sourceforge.net/rst.html
 
 .. _Proctoring Software System Requirements: http://clientportal.softwaresecure.com/support/index.php?/Knowledgebase/Article/View/252/0/system-requirements-remote-proctor-now
 
