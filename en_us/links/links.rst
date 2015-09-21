@@ -114,6 +114,23 @@
 
 .. _Python SAML Toolkit: https://github.com/onelogin/python-saml
 
+
+.. _Manual Testing: https://github.com/edx/edx-platform/tree/master/common/test/data/manual-testing-complete
+
+.. _manual-testing-complete: https://github.com/edx/edx-platform/tree/master/common/test/data/manual-testing-complete
+
+.. _2014.xml: https://github.com/edx/edx-platform/blob/master/common/test/data/manual-testing-complete/course/2014.xml
+
+.. _edX-Insider: https://github.com/pmitros/edX-Insider
+
+.. _Ongoing: https://github.com/pmitros/edX-Insider/tree/master/Ongoing
+
+.. _Week_overview.html: https://github.com/pmitros/edX-Insider/blob/master/Ongoing/html/Week_overview.html
+
+.. _course.xml: https://github.com/pmitros/edX-Insider/blob/master/Ongoing/course.xml
+
+.. _edX Demo Course GitHub: https://github.com/edx/edx-demo-course
+
 .. EDX WIKI LINKS
 
 .. _Open edX Releases Wiki page: https://openedx.atlassian.net/wiki/display/DOC/Open+edX+Releases
@@ -124,6 +141,11 @@
 
 
 .. THIRD PARTY LINKS
+
+.. _Wikipedia XML entry: http://en.wikipedia.org/wiki/XML
+
+
+.. _LON-CAPA XML format: https://s1.lite.msu.edu/adm/help/Authoring_XML_Intro.hlp#Authoring_XML_Intro
 
 
 .. _Sphinx: http://sphinx-doc.org/

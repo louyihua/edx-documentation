@@ -203,7 +203,7 @@ most straightforward option. However, with OLX, you can also store XML for
 verticals in separate files in the ``vertical`` directory.
 
 In this case, verticals for open response assessments are stored in their own
-files. See `Creating a Peer Assessment`_ for more information.
+files.
 
 The vertical files are referenced in ``course.xml`` as follows:
 
@@ -218,5 +218,4 @@ And:
   <vertical url_name="in_class_ora"></vertical>
 
 
-
-.. include:: ../links.rst
+.. include:: ../../../links/links.rst
