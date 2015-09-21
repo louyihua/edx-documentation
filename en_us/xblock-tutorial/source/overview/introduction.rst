@@ -89,7 +89,7 @@ This tutorial is meant to guide developers through the process of creating an
 XBlock, and to explain the :ref:`concepts<XBlock Concepts>` and
 :ref:`anatomy<Anatomy of an XBlock>` of XBlocks.
 
-Developers should also see the :ref:`xblock:EdX XBlock API Guide`.
+Developers should also see the :ref:`xblockapi:EdX XBlock API Guide`.
 
 =========================================
 XBlock Independence and Interoperability
