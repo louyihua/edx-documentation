@@ -48,5 +48,6 @@ intersphinx_mapping = {
     'opencoursestaff': ('http://edx.readthedocs.org/projects/open-edx-building-and-running-a-course/en/latest/', None),
     'partnercoursestaff': ('http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/', None),
     'xblockapi': ('http://edx.readthedocs.org/projects/xblock/en/latest/', None),
-    'installation': ('http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/', None)
+    'installation': ('http://edx.readthedocs.org/projects/edx-installing-configuring-and-running/en/latest/', None),
+    'olx' : ('http://edx.readthedocs.org/projects/edx-open-learning-xml/en/latest/', None)
 }
