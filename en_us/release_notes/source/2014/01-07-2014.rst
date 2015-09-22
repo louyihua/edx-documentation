@@ -2,23 +2,6 @@
 January 7, 2014
 ###################################
 
-**************************
-edX Documentation
-**************************
-
-You can access the public `edX roadmap`_ for
-details about the currently planned product direction.
-
-The following documentation is available:
-
-* `Building and Running an edX Course`_ 
-
-  You can also download the guide as a PDF from the edX Studio user interface.
-
-* `edX Research Guide`_
-
-
-* `Open edX Developer's Guide`_
 
 
 *************
@@ -77,4 +60,3 @@ edX Learning Management System
 
 * On iPads, the video player uses edX controls that appear after you click the video or the Play button. On iPhones, the video player uses native controls. (BLD-541)
 
-.. include:: ../links.rst

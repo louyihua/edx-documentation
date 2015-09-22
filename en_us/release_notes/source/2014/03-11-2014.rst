@@ -2,33 +2,6 @@
 March 11, 2014
 ###################################
 
-**************************
-edX Documentation
-**************************
-
-You can access the public `edX roadmap`_ for
-details about the currently planned product direction.
-
-The following documentation is available:
-
-* `Building and Running an edX Course`_ 
-
-  You can also download the guide as a PDF from the edX Studio user interface.
-
-  Recent changes include:
-  
-  * `The Course Start Date`_ 
-  * `The Course End Date`_ 
-  * `Add a Course Image`_ 
-  * `Add a Course Introduction Video`_ 
-  * `Describe Your Course`_ 
-  * `Create or Obtain a Video Transcript`_
-
-
-* `edX Research Guide`_
-
-* `Open edX Developer's Guide`_
-
 
 *************
 edX Studio
@@ -68,4 +41,4 @@ Accessibility Improvements
 
 * When a user views a video in full screen mode, the transcript no longer obscures the video content. (BLD-852)
 
-.. include:: ../links.rst
+

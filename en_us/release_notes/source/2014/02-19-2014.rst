@@ -2,36 +2,6 @@
 February 19, 2014
 ###################################
 
-**************************
-edX Documentation
-**************************
-
-You can access the public `edX roadmap`_ for
-details about the currently planned product direction.
-
-The following documentation is available:
-
-* `Building and Running an edX Course`_ 
-
-  You can also download the guide as a PDF from the edX Studio user interface.
-
-  Recent changes include:
-  
-  * `Additional transcripts`_ for videos.
-
-  * `Course data`_ in the instructor dashboard.
-
-  * `Staffing data`_ in the instructor dashboard.
-
-  * `Enrollment data`_ in the instructor dashboard.
-
-  * The `Gene Explorer`_ tool.
-
-
-* `edX Research Guide`_
-
-
-* `Open edX Developer's Guide`_
 
 
 *************
@@ -67,7 +37,7 @@ edX Learning Management System
 
 * When a student stops playing a video before it ends and closes the browser, the video starts from the place where the student stopped watching the next time the student views the video. (BLD-385)
 
-.. include:: ../links.rst
+
 
 
 

@@ -2,32 +2,6 @@
 January 29, 2014
 ###################################
 
-**************************
-edX Documentation
-**************************
-
-You can access the public `edX roadmap`_ for
-details about the currently planned product direction.
-
-The following documentation is available:
-
-* `Building and Running an edX Course`_ 
-
-  You can also download the guide as a PDF from the edX Studio user interface.
-
-  Recent changes include:
-  
-  * `Discussions`_ 
-  * `Guidance for Discussion Moderators`_
-  * `External Graders`_
-
-
-* `edX Research Guide`_
-
-
-* `Open edX Developer's Guide`_
-
-
 
 *************
 edX Studio
@@ -80,4 +54,3 @@ Open Response Assessments
  
 * In self assessments, students had to submit responses before the deadline for the problem passed, but didn't have to perform the self assessment of their responses before the deadline. Students must now submit both the response to the problem and their self assessment of that response before the deadline for the problem. (ORA-202) 
 
-.. include:: ../links.rst

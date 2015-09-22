@@ -2,31 +2,6 @@
 February 12, 2014
 ###################################
 
-**************************
-edX Documentation
-**************************
-
-You can access the public `edX roadmap`_ for
-details about the currently planned product direction.
-
-The following documentation is available:
-
-* `Building and Running an edX Course`_ 
-
-  You can also download the guide as a PDF from the edX Studio user interface.
-
-  Recent changes include:
-  
-  * `Set the Advertised Start Date`_
-  * `Full Screen Image`_
-
-
-* `edX Research Guide`_
-
-
-* `Open edX Developer's Guide`_
-
-
 
 
 *************
@@ -80,4 +55,3 @@ Discussions
 
 
 
-.. include:: ../links.rst

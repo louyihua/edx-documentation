@@ -52,5 +52,5 @@ The following information describes what is new in edX Insights.
 
 .. include:: 2015/insights/insights_0128_2015.rst
 
-   
-.. include:: links.rst
+
+.. include:: ../../links/links.rst
