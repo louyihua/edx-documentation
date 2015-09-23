@@ -129,3 +129,31 @@ the name and path is simply ``header.html``.
         |       └── logo.png
         └── templates
             └── header.html
+
+******************
+Activating a Theme
+******************
+
+To activate a theme, you must first install your theme onto the same server
+that is running Open edX. If you are using devstack or fullstack, you must
+be sure that the theme is present on the Vagrant virtual machine. If you
+are installing Open edX onto a server using the configuration scripts,
+you'll need to alter those scripts to install your theme onto the server,
+as well. It's up to you where to install the theme on the server, but
+a good default location is ``/edx/app/themes/my-theme``.
+
+Once the theme is installed on the server, you can activate it by setting
+the ``COMP_THEME_DIR`` Ansible variable to the full path to your theme
+directory. You can do that by adding the following value to your
+``/edx/app/edx_ansible/server-vars.yml`` file:
+
+.. code::
+
+    COMP_THEME_DIR: "/edx/app/themes/my-theme"
+
+Then, you'll need to run Ansible, so that this variable is propogated to the
+``lms.envs.json`` file:
+
+.. code::
+
+    sudo /edx/bin/update edx-platform master
