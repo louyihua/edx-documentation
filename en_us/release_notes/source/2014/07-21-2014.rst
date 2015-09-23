@@ -14,16 +14,16 @@ edX Studio
 
   Following is a sample of this format change:
 
-  * Old URL: ``https://studio.edx.org/unit/location:MITx+7.00x+2013_SOND+vertical+Coming_Soon_Explore_a_Protein``
+  * Old URL: https://studio.edx.org/unit/location:MITx+7.00x+2013_SOND+vertical+Coming_Soon_Explore_a_Protein
 
   * New URL:
-    ``https://studio.edx.org/unit/i4x://MITx/7.00x/vertical/Coming_Soon_Explore_a_Protein``
+    https://studio.edx.org/unit/i4x://MITx/7.00x/vertical/Coming_Soon_Explore_a_Protein
   
   This change does not affect student-visible URLs.
 
-* In open response assessments, you can now create assignments that allow students to upload an image file as well as write a text response. For more information, see `Creating Peer Assessments`_.
+* In open response assessments, you can now create assignments that allow students to upload an image file as well as write a text response. For more information, see Creating Peer Assessments.
 
-* In open response assessments, you can now create a criterion that includes a field for comments, but no options. For more information, see `Creating Peer Assessments`_.
+* In open response assessments, you can now create a criterion that includes a field for comments, but no options. For more information, see Creating Peer Assessments.
 
 * In some cases, deleting a unit from a subsection caused server errors. This bug has been fixed. (STUD-1962)
 

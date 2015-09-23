@@ -28,8 +28,8 @@ edX Learning Management System Accessibility
 ********************************************
 
 * For improved accessibility, the progress meter in the video player now has
-  three additional aria state attributes: ``aria-valuemax``, ``aria-valuemin``,
-  and ``aria-valuenow``. (TNL-89)
+  three additional aria state attributes: aria-valuemax, aria-valuemin,
+  and aria-valuenow. (TNL-89)
 
 * The problem status after a student checks or shows an answer is now
   accessible to screen readers. (TNL-568, TNL-588, TNL-595)
@@ -41,4 +41,4 @@ edX Studio
 
 * Course staff now have the ability to add a **Reset** button to problems.
   Students can click **Reset** to clear any input that has not yet been
-  submitted, and try again to answer the question. See `Show Reset Button`_.
+  submitted, and try again to answer the question. See Show Reset Button.

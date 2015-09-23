@@ -31,15 +31,15 @@ edX Learning Management System
 
   * Informational labels such as "Staff" and "Following" have been redesigned and relocated.
 
-  For more details, see our `End of August Product Announcement`_.
+  For more details, see our End of August Product Announcement.
 
 * Students can now submit their usernames and email addresses to a third party
   by using an LTI interface. (BLD-1250)
 
-* The bulk email feature is now available for all Studio-backed courses on the `edx.org`_ site. 
+* The bulk email feature is now available for all Studio-backed courses on the edx.org site. 
   With this feature, you can send email messages to course participants directly from 
   the Instructor Dashboard before, during, and after the course run. For more information, 
-  see `Bulk Email`_ and `Example Messages to Students`_.
+  see Bulk Email and Example Messages to Students.
 
 
 **************************

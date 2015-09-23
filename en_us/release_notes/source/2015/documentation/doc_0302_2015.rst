@@ -20,5 +20,5 @@ Open edX Documentation
 
 The following new guides are now available specifically for Open edX.
 
-* `Open edX Release Notes`_
-* `Building and Running an Open edX Course`_
+* :ref:`openreleasenotes:Open edX Release Notes`
+* :ref:`opencoursestaff:Building and Running an Open edX Course`

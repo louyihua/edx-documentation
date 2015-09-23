@@ -19,7 +19,7 @@ edX Learning Management System
 
 * Course demographic data is no longer available on the Analytics page of the
   Instructor Dashboard. For charts, metrics, and reports of student
-  demographics, visit `edX Insights`_.
+  demographics, visit edX Insights.
 
 
 **************************

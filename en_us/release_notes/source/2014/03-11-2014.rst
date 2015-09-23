@@ -27,7 +27,7 @@ edX Learning Management System
  .. image:: images/transcript-download.png
   :alt: Image of the transcript download format selection.
 
- The student selects the format, then clicks **Download transcript**. For more information, see `Create or Obtain a Video Transcript`_ (BLD-844)
+ The student selects the format, then clicks **Download transcript**. For more information, see Create or Obtain a Video Transcript (BLD-844)
 
 * A problem that prevented viewing videos in Firefox in full screen mode is resolved. (BLD-905)
 

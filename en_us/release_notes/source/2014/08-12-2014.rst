@@ -33,8 +33,8 @@ edX Studio
         :alt: The unit page indicating the new check box on the right side of the page
 
   For more details and a comparison between the new publishing workflow and the
-  previous workflow, see our most recent `edX Product and Engineering
-  Newsletter`_.
+  previous workflow, see our most recent edX Product and Engineering
+  Newsletter.
 
 * A graphical user interface is now available for creating and maintaining open
   response assessment problems. 

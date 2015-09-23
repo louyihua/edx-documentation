@@ -16,7 +16,7 @@ edX Studio
   .. image:: images/HTMLEditor.png
    :alt: Image of the new HTML Editor
 
-  For instructions on using the new editor to add text, images, and links, see `Working with HTML Components`_.
+  For instructions on using the new editor to add text, images, and links, see Working with HTML Components.
 
 ***************************************
 edX Learning Management System
@@ -27,7 +27,7 @@ edX Learning Management System
 .. image:: images/Live_Course_Staff_View.png
   :alt: Image of the Courseware page in a live course with Staff View indicated at top right and a View Unit in Studio button
 
-For more information, see `Go to Studio from Your Live Course`_.
+For more information, see Go to Studio from Your Live Course.
 
 * A problem that prevented course staff from deleting the student's state for an XBlock in the Beta Instructor Dashboard is now resolved. (LMS-2491)
 

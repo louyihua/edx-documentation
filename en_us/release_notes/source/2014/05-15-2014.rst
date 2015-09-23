@@ -42,5 +42,5 @@ edX Analytics
 
 * There is a new event tracking API for instrumenting events to capture user
   actions and other point-in-time activities in Studio and the edX LMS. See
-  `Analytics`_ for more information.
+  Analytics for more information.
 

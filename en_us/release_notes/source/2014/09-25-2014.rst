@@ -9,7 +9,7 @@ September 25, 2014. See previous pages in this document for a history of changes
 edX Learning Management System
 *******************************
 
-* An issue in which the `char` function caused some MATLAB problems to become
+* An issue in which the char function caused some MATLAB problems to become
   unresponsive has been fixed. (TNL-388)
 
 * Answers to a text input problem with a long input string did not render

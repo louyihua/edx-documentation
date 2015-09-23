@@ -37,7 +37,7 @@ To report where your students are, edX Insights shows a color-coded map.
 
 You can use the data that is available from edX Insights to monitor activity,
 validate choices, reveal unexpected patterns, form hypotheses, and inform plans
-for your course. For information about edX Insights, see `Using edX Insights`_.
+for your course. For information about edX Insights, see Using edX Insights.
 
 **************************
 Coming Soon

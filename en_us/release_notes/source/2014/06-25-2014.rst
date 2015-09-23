@@ -13,7 +13,7 @@ edX Studio
 XBlocks that have been accepted into the edX platform can now be added to
 courses as either advanced problems or advanced components. As a result, **Peer
 Assessments** is now listed as a problem type on the **Advanced** tab in a
-Problem component. For more information, see `Creating Peer Assessments`_.
+Problem component. For more information, see Creating Peer Assessments.
 
 ***************************************
 edX Learning Management System

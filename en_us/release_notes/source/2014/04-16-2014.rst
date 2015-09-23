@@ -16,9 +16,9 @@ edX Studio
   feedback, and answer pools. See the following documentation for more
   information:
 
-    * `Shuffle Answers in a Multiple Choice Problem`_
-    * `Targeted Feedback in a Multiple Choice Problem`_
-    * `Answer Pools in a Multiple Choice Problem`_
+    * Shuffle Answers in a Multiple Choice Problem
+    * Targeted Feedback in a Multiple Choice Problem
+    * Answer Pools in a Multiple Choice Problem
 
 * When you import a large course, your browser may time out while the course is
   being imported.  In this situation, the following message is now displayed on

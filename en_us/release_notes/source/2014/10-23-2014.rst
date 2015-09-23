@@ -9,7 +9,7 @@ October 23, 2014. See previous pages in this document for a history of changes.
 edX Website
 *******************************
 
-Visitors to the `edx.org`_ website can now search for courses by name, school,
+Visitors to the edx.org website can now search for courses by name, school,
 or subject. Search results can be further refined by selecting course
 availability (for example, Current, Starting Soon, Archived) and type (for
 example, Verified, High School, Professional Education).
@@ -38,6 +38,6 @@ edX Studio
 edX Data & Analytics
 **************************
 
-* For compatibility with database import tools, a field in the ``child_render``
-  event was renamed. The ``event`` member field is now named ``child_id``
-  instead of ``child-id``.
+* For compatibility with database import tools, a field in the child_render
+  event was renamed. The event member field is now named child_id
+  instead of child-id.

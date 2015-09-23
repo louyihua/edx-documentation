@@ -11,7 +11,7 @@ edX Studio
 *************
 
 * The HTML component editor is updated to provide a raw HTML editing option. For
-  more information, see `Working with HTML Components`_. (STUD-1562)
+  more information, see Working with HTML Components. (STUD-1562)
 
 * You can now upload a handout that is associated with a video directly in the
   Video component editor. Open the **Advanced** tab in the Video component

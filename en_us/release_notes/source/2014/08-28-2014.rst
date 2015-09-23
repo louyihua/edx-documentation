@@ -29,8 +29,8 @@ edX Studio
     the course, select the "Settings" icon and in the dialog that opens select
     **Hide from students**. The same feature is available for individual units.
   
-  For more details, see our most recent `edX Product and Engineering
-  Newsletter`_.
+  For more details, see our most recent edX Product and Engineering
+  Newsletter.
 
 * You can now build content experiments (also known as A/B tests or split
   tests) entirely within edX Studio.  With a content experiment, you show

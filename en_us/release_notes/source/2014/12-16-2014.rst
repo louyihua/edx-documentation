@@ -23,8 +23,8 @@ edX Learning Management System
 ******************************
 
 * Course staff can now assign students to cohorts by uploading a CSV file of
-  students and their cohort assignments. See `Assign Students to Cohort Groups
-  by Uploading a CSV File`_ for more information. (TNL-735)
+  students and their cohort assignments. See Assign Students to Cohort Groups
+  by Uploading a CSV File for more information. (TNL-735)
 
 **************************
 Coming Soon

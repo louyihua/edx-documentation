@@ -13,7 +13,7 @@ edX Studio
 
 * A problem that caused the first line of an HTML component to be partially cut off in the unit page is resolved. (STUD-1380)
 
-* The Files & Uploads page now includes an external URL for each asset.  See `Add Files to a Course`_ for more information.
+* The Files & Uploads page now includes an external URL for each asset.  See Add Files to a Course for more information.
 
 
 
